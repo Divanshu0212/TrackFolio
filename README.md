@@ -1,6 +1,7 @@
 # Trackfolio: AI-Powered Developer Profile & ATS Platform
 
-![Project Banner](https://via.placeholder.com/1200x400/0D1117/40E0D0?text=Trackfolio)
+<img width="1920" height="1115" alt="image" src="https://github.com/user-attachments/assets/081f2686-41d8-4188-9052-c572198f77c2" />
+
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
